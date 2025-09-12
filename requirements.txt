@@ -1,0 +1,7 @@
+streamlit==1.30.0
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+transformers==4.40.2
+torch==2.1.0
+numpy==1.26.5
+
